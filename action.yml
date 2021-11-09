@@ -1,4 +1,4 @@
-name: 'AWS CLI'
+name: 'AWS CLI for cowboy'
 description: 'GitHub Action for AWS CLI'
 author: ItsKarma
 branding:
